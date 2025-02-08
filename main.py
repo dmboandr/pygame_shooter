@@ -700,7 +700,7 @@ while run:
 
 
     # рисовать задний фон
-    draw_bg()
+    #draw_bg()
     world.draw()
 
     #screen.blit(background, (0, 45))  # какая картина, на какой координате (x, y)
